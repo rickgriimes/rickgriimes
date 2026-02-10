@@ -12,9 +12,6 @@
 
  <p align="center"> 
   
- ![](https://64.media.tumblr.com/d47b171fc627dacb864e181ef9c32576/9cf9150e024c3a99-2c/s250x400/75a043df82baa74ccb8ff7f090f38468501c84e9.gifv)
-![](https://64.media.tumblr.com/9fdca9ba683005e4a722074ba705759e/9cf9150e024c3a99-fd/s250x400/474762da8daa88a1cea10e978931360e0cb99a04.gifv)
-![](https://64.media.tumblr.com/12a2e0c995ed048ada4640eb33a9b59a/9cf9150e024c3a99-37/s250x400/95031ebfd8b6b77e5d2cde1fb6f66288e7fa598d.gifv)
 
 
 
