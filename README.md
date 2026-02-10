@@ -29,10 +29,12 @@
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/fcf29501-68d9-48f1-a42c-090aa3034cec" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/ede6ccc6-d5a9-48b4-8249-3ea87a6a8692" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/5d0ba7bd-4f1e-4b93-a1e6-7c4c3c98949b" />
+ 
 
   <p align="center"> 
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/189471af-3169-42e7-89e2-4c18b9c0f14f" />
 
-
+  ![](https://64.media.tumblr.com/9415c5707fea34283b933d29fb4f9aa9/e6425a19f59517be-0d/s100x200/4aa5fe3ca1b20f011da83907b7777ed11e85cee2.gifv)
+  ![](https://64.media.tumblr.com/8c9970f2ea6efc023b75822885a80863/e6425a19f59517be-6f/s75x75_c1/5925188494d17e992f1a37ab3f6d21a140507f57.gifv)
 
 
