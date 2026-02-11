@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://64.media.tumblr.com/8ae26ee88f02a6c722f0f21b4607fe56/016e874be886ce56-7e/s2048x3072/53621db29282dd3e1d37e12dcbd057393d9ffbf7.pnj" width="400"> 
+<img src="https://64.media.tumblr.com/8ae26ee88f02a6c722f0f21b4607fe56/016e874be886ce56-7e/s2048x3072/53621db29282dd3e1d37e12dcbd057393d9ffbf7.pnj" width="800"> 
 <p align="center"> ‎⦂ masc , neu terms𓏴, 
  <p align="center">𓊆ྀི❤︎𓊇ྀི
 
