@@ -15,4 +15,4 @@
  <img src="https://64.media.tumblr.com/662de0d4fda693ae04142311428f9179/0e12469df85d5579-05/s1280x1920/f7a8efa397e57aa49c7dcc4f89559ffa0a849c94.gifv" width="100">
  <img src="https://64.media.tumblr.com/e3a7cac423c8e61c36995d5fd1766001/0e12469df85d5579-0f/s1280x1920/1af0021793aeffe25c951dc1da167c3f681b9604.gifv" width="100">
 <img src="https://64.media.tumblr.com/1f0b1accc974f4f1f717d60b85faf5b7/5d33f55d25cf1465-8f/s100x200/f5822f5ba44adcd53e7b9e75a185b17543be9f19.pnj" width="100">
-<img src="https://media.discordapp.net/attachments/914896241400369173/1470936725143556188/ezgif-6352088041326a36.webp?ex=698d1c13&is=698bca93&hm=788abace32dfa76729e9380f6f9254edcc56a884846c2b0e2c7f91a4b9b6ec83&=&animated=true width="300">
+<img src="https://media.discordapp.net/attachments/914896241400369173/1470936725143556188/ezgif-6352088041326a36.webp?ex=698d1c13&is=698bca93&hm=788abace32dfa76729e9380f6f9254edcc56a884846c2b0e2c7f91a4b9b6ec83&=&animated=true width="200">
