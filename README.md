@@ -20,4 +20,7 @@
    <img src="https://media.discordapp.net/attachments/914896241400369173/1470936725143556188/ezgif-6352088041326a36.webp?ex=698d1c13&is=698bca93&hm=788abace32dfa76729e9380f6f9254edcc56a884846c2b0e2c7f91a4b9b6ec83&=&animated=true" width="200">
     
  <p align="center">
-   <img src="https://64.media.tumblr.com/5a1e823a86ae75f8eeeaf32f9c7315f5/772a6c5f5f7c3182-c5/s250x400/3e012d6529e52b3541b3e6125e380ab7457d7e1c.gifv" width="100">
+   <img src="https://64.media.tumblr.com/a65d7c6bd2ff3ca2a1eabc38eedc0ac2/783a3c48715d4d08-60/s100x200/5de01f1a934a523348a417ea3977e7d6a694c9e9.gifv" width="100">
+   <img src="https://64.media.tumblr.com/09e02f81d7c1f06bfdcca35719e6a7bf/783a3c48715d4d08-ba/s100x200/cd68c2c42ef2e57dc92c4993a9c33199abfe7258.gifv" width="100">
+   <img src="https://64.media.tumblr.com/5bfef89069fecec3ee1804e8d4025816/783a3c48715d4d08-2f/s100x200/b4a1df88cea93fc2d0c2cdb9dc7486993b873509.gifv" width="100">
+   <img src="https://64.media.tumblr.com/6b817812dc81bdf206b3fbfa0a9b08e2/783a3c48715d4d08-c9/s100x200/4f0167603755302e27df5b33ff28262dedc22748.gifv" width="100">
