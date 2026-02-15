@@ -6,6 +6,12 @@
 <p align="center"> you’re a challenge every sunset, saint louis, and i’d have it no other way.
   <p align="center">
    <img src="https://media.discordapp.net/attachments/914896241400369173/1470936725143556188/ezgif-6352088041326a36.webp?ex=698d1c13&is=698bca93&hm=788abace32dfa76729e9380f6f9254edcc56a884846c2b0e2c7f91a4b9b6ec83&=&animated=true" width="200">
+     <p align="center">
+    <img src="https://64.media.tumblr.com/6acabb79f7c022a04795abaf7c6cff7f/ac965b23c748d1bb-0c/s100x200/a1c7193819910bc7bf8b956a85469deb96e3b736.gifv" width="100"> 
+    <img src="https://64.media.tumblr.com/05a7abe2c4224f1d23fdaf591cf6e035/ac965b23c748d1bb-bd/s100x200/1e513e17afe25eaccdd6bda24125b94c8ea965c5.gifv" width="100"> 
+    <img src="https://64.media.tumblr.com/0e5674b9c12893c89fa4fa22314bd273/ac965b23c748d1bb-b9/s100x200/fd53d5092290fc646d5a3be3b831d02ec6667849.gifv" width="100"> 
+    <img src="https://64.media.tumblr.com/9e8679552fcad142a95e7c34604b7e66/f0853ce8832fbb22-38/s100x200/0ff9d43802b3c3143fcb6d94183a59277662ae2b.pnj" width="100"> 
+       <img src="https://64.media.tumblr.com/2f85752a321f280ca41b196867debe80/ac965b23c748d1bb-44/s100x200/ae7229cb9e9c52da8ca2f89dff28706a28794e61.gifv" width="100"> 
  <p align="center">
 <img src="https://64.media.tumblr.com/eb1279c6d8141edca796d4c1e15badf9/4ffca3aa48f34f3a-86/s100x200/573434a37edb8546d35dc543e6e1be28ad548ad7.pnj" width="100"> 
 <img src="https://64.media.tumblr.com/634c16652a332e7bb7859e2edbcda496/4ffca3aa48f34f3a-37/s100x200/00b979938c9d4149ceaa55a851badf30e4cbf4bf.pnj" width="100"> 
@@ -52,3 +58,4 @@
 
 <p align="center">
 <img src="https://64.media.tumblr.com/8ae26ee88f02a6c722f0f21b4607fe56/016e874be886ce56-7e/s2048x3072/53621db29282dd3e1d37e12dcbd057393d9ffbf7.pnj" width="600"> 
+<img src="https://64.media.tumblr.com/ec5261f9c4f25ca21b0f821d0a5511a5/ac965b23c748d1bb-26/s250x400/3fcf036140a72429e97a363b1f81879f91910d81.gifv" width="600"> 
