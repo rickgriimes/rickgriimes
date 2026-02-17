@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://64.media.tumblr.com/8ae26ee88f02a6c722f0f21b4607fe56/016e874be886ce56-7e/s2048x3072/53621db29282dd3e1d37e12dcbd057393d9ffbf7.pnj" width="600"> 
 <p align="center">
- ${\color{#9B111E}⦂ ㅤ\spaceㅤㅤmasc ㅤ\spaceㅤㅤ ,  ㅤ\spaceㅤㅤneu terms𓏴,  ㅤ\spaceㅤㅤftm
+ ${\color{#9B111E}⦂ ㅤ\spaceㅤㅤmasc ㅤ\spaceㅤㅤ ,  ㅤ\spaceㅤㅤneu terms𓏴,  ㅤ\spaceㅤㅤftm \space}$
  <p align="center">𓊆ྀི❤︎𓊇ྀི
 
 <p align="center"> you’re a challenge every sunset, saint louis, and i’d have it no other way.
