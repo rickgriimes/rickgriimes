@@ -8,7 +8,7 @@
 <p align="center"> 
  ${\color{#D20A2E} ㅤ\space  you’reㅤ\space a ㅤ\space challenge ㅤ\space every ㅤ\space sunset, ㅤ\space saintㅤ\space  louis, ㅤ\space and ㅤ\space i’d ㅤ\space have ㅤ\space itㅤ\space  noㅤ\space other ㅤ\space way.\space}$
   <p align="center">
-   <img src="https://media.discordapp.net/attachments/914896241400369173/1470936725143556188/ezgif-6352088041326a36.webp?ex=698d1c13&is=698bca93&hm=788abace32dfa76729e9380f6f9254edcc56a884846c2b0e2c7f91a4b9b6ec83&=&animated=true" width="200">
+   
      <p align="center">
     <img src="https://64.media.tumblr.com/6acabb79f7c022a04795abaf7c6cff7f/ac965b23c748d1bb-0c/s100x200/a1c7193819910bc7bf8b956a85469deb96e3b736.gifv" width="100"> 
     <img src="https://64.media.tumblr.com/05a7abe2c4224f1d23fdaf591cf6e035/ac965b23c748d1bb-bd/s100x200/1e513e17afe25eaccdd6bda24125b94c8ea965c5.gifv" width="100"> 
