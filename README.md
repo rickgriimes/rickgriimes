@@ -40,14 +40,16 @@
       <img src="https://c.tenor.com/ToNXi0xOVicAAAAd/tenor.gif" width="150" />
 <img src="https://c.tenor.com/mKx7r7duSQkAAAAd/tenor.gif" width="150" />
   <img src="https://c.tenor.com/siBZmVbhKv0AAAAd/tenor.gif" width="150" />
+  <p align="center"> 
      <img src="https://c.tenor.com/owbEY3xETiYAAAAC/tenor.gif" width="150" />
 <img src="https://c.tenor.com/M2aHrWsXjoMAAAAC/tenor.gif" width="150" />
 <img src="https://c.tenor.com/52L4c2xYkj0AAAAd/tenor.gif" width="150" />
   <img src="https://c.tenor.com/jdyOqr-UP5IAAAAC/tenor.gif" width="150" />
       <img src="https://c.tenor.com/-RrdsiDyFJgAAAAC/tenor.gif" width="150" />
      <img src="https://c.tenor.com/qtHibbxymboAAAAC/tenor.gif" width="150" />
+        <img src="https://c.tenor.com/blGplcC0tIsAAAAC/tenor.gif" width="150" />
       <img src="https://c.tenor.com/mQbSG4Use2QAAAAd/tenor.gif" width="150" />
-      <img src="https://c.tenor.com/blGplcC0tIsAAAAC/tenor.gif" width="150" />
+
 </p>
 
   ![Ok bai](https://img.shields.io/badge/Ok%20bai-8A0303?style=flat\&labelColor=8A0303)
