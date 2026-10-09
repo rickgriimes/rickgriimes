@@ -22,6 +22,9 @@
 <img src="https://64.media.tumblr.com/eb12bb4e981eddf4ec3eb2fcec397e83/cb3cdd609f4b887c-1b/s100x200/c90246d7af062b8fda69c5b5b05a661e3802ca6a.gif" width="100" />
 <img width="97" height="57" alt="image" src="https://github.com/user-attachments/assets/0915d95c-2ade-4b11-a0ff-f133faf03986" />
 <img src="https://64.media.tumblr.com/e1af7d29ad0aa43947a01822e1ad8629/cb3cdd609f4b887c-4c/s100x200/4479757b5c15ca539fa8009b8e42166eb721071b.gif" width="100" />
+<a href="https://www.last.fm/music/Los+%C3%81ngeles+Azules/_/C%C3%B3mo+Te+Voy+A+Olvidar">
+  <img src="https://lastfm.freetls.fastly.net/i/u/300x300/placeholder" width="100" alt="Cómo Te Voy A Olvidar - Los Ángeles Azules">
+</a>
 
 
 
