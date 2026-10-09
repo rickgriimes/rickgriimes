@@ -36,7 +36,7 @@
 <img src="https://c.tenor.com/ot8-dA7QdO4AAAAd/tenor.gif" width="150" />
     <img src="https://c.tenor.com/mvm6bokAPb0AAAAd/tenor.gif" width="150" />
     <img src="https://c.tenor.com/B-STyvJS3agAAAAd/tenor.gif" width="150" />
-      <img src="https://c.tenor.com/3CjifWo9PoEAAAAC/tenor.gif="150" />
+      <img src="https://c.tenor.com/3CjifWo9PoEAAAAC/tenor.gif="80" />
       <img src="https://c.tenor.com/ToNXi0xOVicAAAAd/tenor.gif" width="150" />
 <img src="https://c.tenor.com/mKx7r7duSQkAAAAd/tenor.gif" width="150" />
   <img src="https://c.tenor.com/siBZmVbhKv0AAAAd/tenor.gif" width="150" />
@@ -46,7 +46,7 @@
   <img src="https://c.tenor.com/jdyOqr-UP5IAAAAC/tenor.gif" width="150" />
       <img src="https://c.tenor.com/-RrdsiDyFJgAAAAC/tenor.gif" width="150" />
      <img src="https://c.tenor.com/qtHibbxymboAAAAC/tenor.gif" width="150" />
-      <img src="https://c.tenor.com/mQbSG4Use2QAAAAd/tenor.gif="150" />
+      <img src="https://c.tenor.com/mQbSG4Use2QAAAAd/tenor.gif="80" />
       <img src="https://c.tenor.com/blGplcC0tIsAAAAC/tenor.gif="150" />
 </p>
 
