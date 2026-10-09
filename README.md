@@ -15,7 +15,7 @@
   <img width="107" height="64" alt="image" src="https://github.com/user-attachments/assets/0f579e72-d0ba-4bff-a1aa-48490babd7e6" />
 </p>
 <p align="center"> <img width="97" height="57" alt="image" src="https://github.com/user-attachments/assets/f82daf7c-327c-4320-bbcc-eaa2dc0b6b1e" />
- <img src="https://64.media.tumblr.com/947d2908b04379943aced600ec0bc493/cb3cdd609f4b887c-46/s100x200/4dcce16864c0c947f64c0bbc2e08779f30a0962f.gif" width="100" 
+<img src="https://64.media.tumblr.com/947d2908b04379943aced600ec0bc493/cb3cdd609f4b887c-46/s100x200/4dcce16864c0c947f64c0bbc2e08779f30a0962f.gif" width="100" />
 
 
 
