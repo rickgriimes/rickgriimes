@@ -33,13 +33,14 @@
 <p align="center"> 
 <img src="https://c.tenor.com/qJQQftwf890AAAAd/tenor.gif" width="150" />
 <img src="https://c.tenor.com/ot8-dA7QdO4AAAAd/tenor.gif" width="150" />
+    <img src="https://c.tenor.com/mvm6bokAPb0AAAAd/tenor.gif" width="150" />
+    <img src="https://c.tenor.com/B-STyvJS3agAAAAd/tenor.gif" width="150" />
 <img src="https://c.tenor.com/mKx7r7duSQkAAAAd/tenor.gif" width="150" />
   <img src="https://c.tenor.com/siBZmVbhKv0AAAAd/tenor.gif" width="150" />
 <img src="https://c.tenor.com/M2aHrWsXjoMAAAAC/tenor.gif" width="150" />
 <img src="https://c.tenor.com/52L4c2xYkj0AAAAd/tenor.gif" width="150" />
   <img src="https://c.tenor.com/jdyOqr-UP5IAAAAC/tenor.gif" width="150" />
-  <img src="https://c.tenor.com/mvm6bokAPb0AAAAd/tenor.gif" width="150" />
-    <img src="https://c.tenor.com/B-STyvJS3agAAAAd/tenor.gif" width="150" />
+
 </p>
 
   ![Ok bai](https://img.shields.io/badge/Ok%20bai-8A0303?style=flat\&labelColor=8A0303)
