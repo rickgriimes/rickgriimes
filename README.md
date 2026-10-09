@@ -46,7 +46,7 @@
   <img src="https://c.tenor.com/jdyOqr-UP5IAAAAC/tenor.gif" width="150" />
       <img src="https://c.tenor.com/-RrdsiDyFJgAAAAC/tenor.gif" width="150" />
      <img src="https://c.tenor.com/qtHibbxymboAAAAC/tenor.gif" width="150" />
-      <img src="https://c.tenor.com/mQbSG4Use2QAAAAd/tenor.gif" width="150" />>
+      <img src="https://c.tenor.com/mQbSG4Use2QAAAAd/tenor.gif" width="150" />
       <img src="https://c.tenor.com/blGplcC0tIsAAAAC/tenor.gif" width="150" />
 </p>
 
