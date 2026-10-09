@@ -32,7 +32,7 @@
 </p>
 
 
-<img src="https://64.media.tumblr.com/720e6e2f3b2085cccf97f5d36e67d417/18f1bcd1b3e09c61-57/s250x400/0466b6e64ab858291f1ada06a89243b5179ecc8b.gif" width="500" /> >![ok bai](https://img.shields.io/badge/hi-8A0303?style=flat\&labelColor=8A0303)
+<img src="https://64.media.tumblr.com/720e6e2f3b2085cccf97f5d36e67d417/18f1bcd1b3e09c61-57/s250x400/0466b6e64ab858291f1ada06a89243b5179ecc8b.gif" width="500" /> >![ok bai](https://img.shields.io/badge/okbai-8A0303?style=flat\&labelColor=8A0303)
 
 
 
