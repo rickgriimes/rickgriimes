@@ -5,7 +5,7 @@
  
 
 <p align="center"> 
-♡ ⠀⠀⠀(⸝⸝⸝ᵒ̴̶̷ ｡ ᵒ̴̶̷⸝⸝⸝) 
+
   <img width="107" height="64" src="https://github.com/user-attachments/assets/9635de53-205d-4aaf-8c56-457a38bbdc61" />
   <img width="100" height="60" src="https://github.com/user-attachments/assets/be6c585c-0070-4fc3-a7b2-f94cb846934e" />
   <img width="100" height="60" src="https://github.com/user-attachments/assets/b99e86f9-ad57-4c27-ba3f-ecbd1610f758" />
@@ -15,8 +15,7 @@
   <img width="107" height="64" alt="image" src="https://github.com/user-attachments/assets/0f579e72-d0ba-4bff-a1aa-48490babd7e6" />
 </p>
 <p align="center"> <img width="97" height="57" alt="image" src="https://github.com/user-attachments/assets/f82daf7c-327c-4320-bbcc-eaa2dc0b6b1e" />
-  <img src="https://64.media.tumblr.com/947d2908b04379943aced600ec0bc493/cb3cdd609f4b887c-46/s100x200/4dcce16864c0c947f64c0bbc2e08779f30a0962f.gifv"  width="100"
-
+  <img src="https://64.media.tumblr.com/947d2908b04379943aced600ec0bc493/cb3cdd609f4b887c-46/s100x200/4dcce16864c0c947f64c0bbc2e08779f30a0962f.gif"  
 
 
 
