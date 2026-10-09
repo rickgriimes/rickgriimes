@@ -24,6 +24,8 @@
 <img src="https://64.media.tumblr.com/e1af7d29ad0aa43947a01822e1ad8629/cb3cdd609f4b887c-4c/s100x200/4479757b5c15ca539fa8009b8e42166eb721071b.gif" width="100" />
 <a href="https://www.last.fm/music/Los+%C3%81ngeles+Azules/_/C%C3%B3mo+Te+Voy+A+Olvidar">
 
+  
+![My Last.fm](https://lastfm-api.batuhantrkgl.tech/api/widget/gacktgacktgackt)>
 
 
 
