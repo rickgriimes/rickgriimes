@@ -30,9 +30,8 @@
 
 <img src="https://64.media.tumblr.com/630986fc0e3f2121d9c86ae7a7d046fc/71df210402a1f9a3-2b/s250x400/af16658931dc362d90920fbb13db9956824ef469.gif" width="100" />
 </p>
-
-/> ![ok bai](https://img.shields.io/badge/okbai-8A0303?style=flat\&labelColor=8A0303)
 <img src="https://64.media.tumblr.com/720e6e2f3b2085cccf97f5d36e67d417/18f1bcd1b3e09c61-57/s250x400/0466b6e64ab858291f1ada06a89243b5179ecc8b.gif" width="500" 
+![Ok bai](https://img.shields.io/badge/Ok%20bai-8A0303?style=flat\&labelColor=8A0303)
 
 
 
