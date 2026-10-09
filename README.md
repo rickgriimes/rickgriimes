@@ -22,7 +22,14 @@
 <img src="https://64.media.tumblr.com/eb12bb4e981eddf4ec3eb2fcec397e83/cb3cdd609f4b887c-1b/s100x200/c90246d7af062b8fda69c5b5b05a661e3802ca6a.gif" width="100" />
 <img width="97" height="57" alt="image" src="https://github.com/user-attachments/assets/0915d95c-2ade-4b11-a0ff-f133faf03986" />
 <img src="https://64.media.tumblr.com/e1af7d29ad0aa43947a01822e1ad8629/cb3cdd609f4b887c-4c/s100x200/4479757b5c15ca539fa8009b8e42166eb721071b.gif" width="100" />
-<a href="https://www.last.fm/music/Los+%C3%81ngeles+Azules/_/C%C3%B3mo+Te+Voy+A+Olvidar">
+
+
+<img src="https://64.media.tumblr.com/ae7db5e26480727353464808a52c74bd/71df210402a1f9a3-87/s1280x1920/c1517bb6f9fca2660e86ed64c37b376164e60465.gif" width="100" />
+
+<img src="https://64.media.tumblr.com/bfcb37e297e0c7fd93206b5f2940ffa1/71df210402a1f9a3-64/s250x400/3e93b59c012ce00e4ae97e0fe87e6fd0f5c79d0f.gif" width="100" />
+
+<img src="https://64.media.tumblr.com/630986fc0e3f2121d9c86ae7a7d046fc/71df210402a1f9a3-2b/s250x400/af16658931dc362d90920fbb13db9956824ef469.gif " width="100" />
+
 
 
 
