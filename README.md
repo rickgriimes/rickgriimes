@@ -51,6 +51,7 @@
       <img src="https://c.tenor.com/mQbSG4Use2QAAAAd/tenor.gif" width="150" />
 
 </p>
+<img src="https://static.wikia.nocookie.net/ordemparanormal/images/7/7f/EDM_-_Sprite_Dessassombrado_Assombrado.gif/revision/latest?cb=20250812133141&path-prefix=pt-br" width="300" 
 
   ![Ok bai](https://img.shields.io/badge/Ok%20bai-8A0303?style=flat\&labelColor=8A0303)
 <img src="https://64.media.tumblr.com/720e6e2f3b2085cccf97f5d36e67d417/18f1bcd1b3e09c61-57/s250x400/0466b6e64ab858291f1ada06a89243b5179ecc8b.gif" width="500" /> 
