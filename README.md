@@ -53,9 +53,11 @@
 
 
 
-  
+   <p align="center"> 
   <img src="https://static.wikia.nocookie.net/ordemparanormal/images/c/ce/EDM_-_Sprite_Jaser_Salvando_Lupi.gif/revision/latest?cb=20250812004553&path-prefix=pt-br" width="150" />
-
+ <img src="https://static.wikia.nocookie.net/ordemparanormal/images/7/7f/EDM_-_Sprite_Dessassombrado_Assombrado.gif/revision/latest?cb=20250812133141&path-prefix=pt-br" width="150" />
+ <img src="https://static.wikia.nocookie.net/ordemparanormal/images/8/8c/EDM_-_Sprite_Jaser_Strach_Idle.gif/revision/latest?cb=20250808124420&path-prefix=pt-br" width="150" />
+ <img src="https://static.wikia.nocookie.net/ordemparanormal/images/e/e9/EDM_-_Sprite_Jaser_e_Ver%C3%ADssimo_Morrendo.gif/revision/latest?cb=20250808125828&path-prefix=pt-br" width="150" />
 
 
 
