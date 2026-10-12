@@ -49,7 +49,12 @@
      <img src="https://c.tenor.com/qtHibbxymboAAAAC/tenor.gif" width="150" />
         <img src="https://c.tenor.com/blGplcC0tIsAAAAC/tenor.gif" width="150" />
       <img src="https://c.tenor.com/mQbSG4Use2QAAAAd/tenor.gif" width="150" />
-         <img src="https://static.wikia.nocookie.net/ordemparanormal/images/c/ce/EDM_-_Sprite_Jaser_Salvando_Lupi.gif/revision/latest?cb=20250812004553&path-prefix=pt-br width="150" />
+
+
+
+
+  
+  <img src="https://static.wikia.nocookie.net/ordemparanormal/images/c/ce/EDM_-_Sprite_Jaser_Salvando_Lupi.gif/revision/latest?cb=20250812004553&path-prefix=pt-br" width="150" />
 
 
 
