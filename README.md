@@ -60,6 +60,7 @@
  <img src="https://static.wikia.nocookie.net/ordemparanormal/images/e/e9/EDM_-_Sprite_Jaser_e_Ver%C3%ADssimo_Morrendo.gif/revision/latest?cb=20250808125828&path-prefix=pt-br" width="150" />
   <img src="https://static.wikia.nocookie.net/ordemparanormal/images/f/f8/EDM_-_Sprite_Mia_Outro_Final_Idle.gif/revision/latest?cb=20250805234640&path-prefix=pt-br" width="100" />
 
+![ok bai](https://img.shields.io/badge/ok%20bai-8A0303?style=flat\&labelColor=8A0303)
 
 
 
