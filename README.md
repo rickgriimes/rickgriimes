@@ -53,6 +53,7 @@
 </p>
  <p align="center"> 
 <img src="https://static.wikia.nocookie.net/ordemparanormal/images/7/7f/EDM_-_Sprite_Dessassombrado_Assombrado.gif/revision/latest?cb=20250812133141&path-prefix=pt-br" width="300" 
+  <img src="https://static.wikia.nocookie.net/ordemparanormal/images/c/ce/EDM_-_Sprite_Jaser_Salvando_Lupi.gif/revision/latest?cb=20250812004553&path-prefix=pt-br" width="300" 
   
    
   ![Ok bai](https://img.shields.io/badge/Ok%20bai-8A0303?style=flat\&labelColor=8A0303)
