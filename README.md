@@ -8,9 +8,11 @@
 <p align="center">  <img src="https://media.discordapp.net/attachments/914896241400369173/1566515822690697426/guapoduo.png?ex=6ae8d30c&is=6ae7818c&hm=d330b5dfe660a46267c93a02c7569f10e91844c1b8a55bdf8025bee550b2160c&=&format=webp&quality=lossless" width="900" />
 
 <div align="center">
-  <span style="color:#00AC60;">"- can i really trust you..?"</span>
-  <br>
-  <span style="color:#FF0000;">"- completely."</span>
+
+$\color{#00AC60}{\text{''- can i really trust you..?''}}$
+
+$\color{#FF0000}{\text{''- completely.''}}$
+
 </div>
 
  
