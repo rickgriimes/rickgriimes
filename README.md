@@ -8,8 +8,7 @@
 <p align="center"> 
  <img src="https://pbs.twimg.com/media/HAXZ4YzWEAAbdH5?format=jpg&name=medium" width="900" />
 <p align="center"> 
- ㅤㅤㅤㅤㅤㅤㅤ
-<div align="center">
+ ㅤㅤㅤㅤㅤㅤㅤ<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Henny+Penny&size=23&pause=1000&color=6B8D35&center=true&vCenter=true&width=435&lines=They+don't+deserve+anyone+on+this+island.;They+don't+deserve+you.;Take+care%2C+Guapito." alt="Typing SVG" />
   </a>
